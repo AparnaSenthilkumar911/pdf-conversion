@@ -1,0 +1,38 @@
+{
+  "name": "pdf",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.3.6",
+    "@iconify/react": "^4.1.1",
+    "@ironsoftware/ironpdf": "^2024.4.2",
+    "@react-pdf/renderer": "^3.4.4",
+    "antd": "^5.17.0",
+    "file-saver": "^2.0.5",
+    "html2pdf.js": "^0.10.1",
+    "next": "14.2.3",
+    "react": "^18",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.1.0",
+    "react-to-pdf": "^1.0.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@iconify/tailwind": "^1.0.1",
+    "@types/file-saver": "^2.0.7",
+    "@types/node": "20.12.7",
+    "@types/react": "18.3.1",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "5.4.5"
+  }
+}

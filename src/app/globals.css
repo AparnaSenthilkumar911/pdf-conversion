@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#object-position1{
+  object-position: center;
+  margin-left: 33%;
+  padding-bottom: 2%;
+}
